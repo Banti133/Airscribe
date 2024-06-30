@@ -15,7 +15,8 @@ AirScribe projects typically involve the following components and techniques:
 
 <img width="456" alt="image" src="https://github.com/Banti133/Airscribe/assets/134291468/50dc27e6-6337-46bc-b968-79d7620b5e8c">
 
-Identify Requirements:
+
+# Identify Requirements:
 
 *Hardware: Camera with good resolution and frame rate, computer with processing power for image processing.
 
